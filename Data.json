@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "אתר צהל",
+    "UserName": "325344000@idf.il",
+    "password": " Sיןךם123#",
+    "URL": "https://www.idf.il/",
+    "type": "Normal",
+    "id": 1
+  },
+  {
+    "Name": "uiverse - אלמנטים מוכנים",
+    "URL": "https://uiverse.io/",
+    "type": "Stam",
+    "id": 4
+  },
+  {
+    "Name": "Google Cloud",
+    "UserName": "sqlserver123",
+    "password": "Shilo#123",
+    "URL": "http://לא יודע.com",
+    "type": "Normal",
+    "id": 5
+  },
+  {
+    "Name": "stripe-משהו כזה של אשראי",
+    "UserName": "לא זוכר",
+    "password": "Shilo12345#",
+    "URL": "https://stripe.com",
+    "type": "Normal",
+    "id": 6
+  },
+  {
+    "Name": "אמזון שירותי ענן",
+    "UserName": "shilo",
+    "password": "Shilo123#",
+    "URL": "https://aws.amazon.com/",
+    "type": "Normal",
+    "id": 7
+  },
+  {
+    "Name": "ספוטיפיי - API",
+    "Token": "BQB3vyhMc7plnhqD7fOJQLu1ltqKrgCnhYRVGPjfUhwqBEpJsUZ0CBx4K0ZKkKaTtzQd51UcOHNKM915vepFF4fqt6DAA1ma8gdO8VNTHalNNre5zxc",
+    "URL": "https://developer.spotify.com/documentation/web-api",
+    "type": "Token",
+    "id": 8
+  }
+]
